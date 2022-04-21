@@ -1,5 +1,5 @@
 # Sprywire Reservation System
-Langauges Used: ```HTML```, ```CSS```, ```JAVASCRIPT``` & ```PHP```
+Langauges Used: ```HTML```, ```CSS```, ```HACK``` & ```PHP```
 
 # MODULES IN THIS PROJECT
 | Module | Description |
